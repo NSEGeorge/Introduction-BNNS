@@ -1,7 +1,7 @@
 # Introduction-BNNS
 
 Learinig machine leraning on iOS with using Basic Neural Network Subroutines.
-Here you can find neural network for count XOR. Full aritcle - [cocoa-beans](http://cocoa-beans.ru/project/ne-coreml-edinym/)
+Here you can find neural network for count XOR. Full aritcle - [cocoa-beans](http://cocoa-beans.ru/technology/bnns/)
 
 Neural network looks like this:
 
